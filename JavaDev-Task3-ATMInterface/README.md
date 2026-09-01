@@ -44,4 +44,4 @@ JavaDev-Task3-ATMInterface/
 
 ## Author
 
-Pallavi G.
+Pallavi G
